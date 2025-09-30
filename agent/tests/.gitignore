@@ -1,0 +1,44 @@
+```
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# Environment variables
+*.env
+
+# Logs
+logs/
+*.log
+
+# Data folders (keep structure but ignore contents)
+data/raw/*
+data/processed/*
+data/metadata/*
+
+# Reports (ignore generated outputs, not templates)
+reports/*.pdf
+reports/*.html
+reports/*.json
+reports/*.txt
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+```
