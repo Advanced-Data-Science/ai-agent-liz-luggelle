@@ -1,0 +1,27 @@
+{
+  "collection_info": {
+    "collection_date": "2025-09-30T18:49:34.727077",
+    "agent_version": "1.0",
+    "collector": "Liz Luggelle",
+    "total_records": 25
+  },
+  "data_sources": [
+    "http://api.openweathermap.org/data/2.5/weather"
+  ],
+  "quality_metrics": {
+    "average_score": 1.0,
+    "num_checks": 4
+  },
+  "processing_history": [
+    "collected data",
+    "validated data",
+    "stored raw JSON"
+  ],
+  "variables": {
+    "time": "ISO timestamp when data was collected",
+    "city": "Name of the city",
+    "temperature": "Air temperature in Celsius",
+    "humidity": "Relative humidity (%)",
+    "weather": "Short description of weather conditions"
+  }
+}

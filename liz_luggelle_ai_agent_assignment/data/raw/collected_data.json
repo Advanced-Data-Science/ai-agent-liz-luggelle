@@ -1,0 +1,177 @@
+[
+  {
+    "time": "2025-09-30T18:49:25.083749",
+    "city": "Portland",
+    "temperature": 14.98,
+    "humidity": 69,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:25.083764",
+    "city": "Boston",
+    "temperature": 17.4,
+    "humidity": 71,
+    "weather": "scattered clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:25.083769",
+    "city": "Albany",
+    "temperature": 18,
+    "humidity": 41,
+    "weather": "broken clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:25.083772",
+    "city": "Burlington",
+    "temperature": 14.15,
+    "humidity": 59,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:25.083775",
+    "city": "New York",
+    "temperature": 25.2,
+    "humidity": 47,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:27.644973",
+    "city": "Portland",
+    "temperature": 14.98,
+    "humidity": 69,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:27.644982",
+    "city": "Boston",
+    "temperature": 17.4,
+    "humidity": 71,
+    "weather": "scattered clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:27.644984",
+    "city": "Albany",
+    "temperature": 18,
+    "humidity": 41,
+    "weather": "broken clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:27.644986",
+    "city": "Burlington",
+    "temperature": 14.15,
+    "humidity": 59,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:27.644987",
+    "city": "New York",
+    "temperature": 25.2,
+    "humidity": 47,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:29.135697",
+    "city": "Portland",
+    "temperature": 14.98,
+    "humidity": 69,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:29.135758",
+    "city": "Boston",
+    "temperature": 17.4,
+    "humidity": 71,
+    "weather": "scattered clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:29.135766",
+    "city": "Albany",
+    "temperature": 18,
+    "humidity": 41,
+    "weather": "broken clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:29.135771",
+    "city": "Burlington",
+    "temperature": 14.15,
+    "humidity": 59,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:29.135777",
+    "city": "New York",
+    "temperature": 25.2,
+    "humidity": 47,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:31.231677",
+    "city": "Portland",
+    "temperature": 14.98,
+    "humidity": 69,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:31.231685",
+    "city": "Boston",
+    "temperature": 17.4,
+    "humidity": 71,
+    "weather": "scattered clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:31.231687",
+    "city": "Albany",
+    "temperature": 18,
+    "humidity": 41,
+    "weather": "broken clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:31.231688",
+    "city": "Burlington",
+    "temperature": 14.15,
+    "humidity": 59,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:31.231690",
+    "city": "New York",
+    "temperature": 25.2,
+    "humidity": 47,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:32.825268",
+    "city": "Portland",
+    "temperature": 14.98,
+    "humidity": 69,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:32.825282",
+    "city": "Boston",
+    "temperature": 17.4,
+    "humidity": 71,
+    "weather": "scattered clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:32.825287",
+    "city": "Albany",
+    "temperature": 18,
+    "humidity": 41,
+    "weather": "broken clouds"
+  },
+  {
+    "time": "2025-09-30T18:49:32.825291",
+    "city": "Burlington",
+    "temperature": 14.15,
+    "humidity": 59,
+    "weather": "clear sky"
+  },
+  {
+    "time": "2025-09-30T18:49:32.825295",
+    "city": "New York",
+    "temperature": 25.2,
+    "humidity": 47,
+    "weather": "clear sky"
+  }
+]

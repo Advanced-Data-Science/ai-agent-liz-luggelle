@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "total_records": 25,
+    "collection_success_rate": 5.0,
+    "overall_quality_score": 1.0
+  },
+  "completeness_analysis": {
+    "missing_values": 0,
+    "completeness_rate": 1.0
+  },
+  "data_distribution": {
+    "min_temp": 14.15,
+    "max_temp": 25.2,
+    "avg_temp": 17.945999999999998
+  },
+  "anomaly_detection": [],
+  "recommendations": [
+    "Collection successful with no major issues."
+  ]
+}

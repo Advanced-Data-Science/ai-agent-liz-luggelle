@@ -1,0 +1,8 @@
+Python Dependencies
+- requests (for API requests)
+- python-dotenv (to load env)
+- reportlab (to generate summary pdf)
+
+Instructions
+- from root directory, navigate to agent
+- in terminal, copy or type "pip install requests python-dotenv reportlab" and hit enter
